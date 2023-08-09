@@ -1,6 +1,6 @@
 # bookly_app
 
-A Flutter project.
+It is an application for viewing and downloading books
 
 ## With :
     - MVVM (design pattern)
